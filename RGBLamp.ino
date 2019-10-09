@@ -1,3 +1,11 @@
+/*
+ * RGBLamp by Michael Ploof, September 2019
+ * 
+ * Fire simulator adapted from FastLED example, Fire2012 by Mark Kriegsman, July 2012
+ * as part of "Five Elements" shown here: http://youtu.be/knWiGsmgycY
+ * 
+ */
+
 #include <FastLED.h>
 
 FASTLED_USING_NAMESPACE
